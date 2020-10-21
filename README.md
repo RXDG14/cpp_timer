@@ -7,14 +7,7 @@ this was already implemeted before but what i did was replaced 8 lines of long l
 
 # usage :
 
-
-#include "ghanta.h"     //timer.h
-
-
-start_time;             //starts time
-
-
-end_time;               //ends time
-
-
-cout<<duration;         //gives the duration of the time
+header file   :    #include<ghanta.h>
+start timer   :    start_time;
+ends timer    :    end_time;              
+show time     :    cout<<duration;
