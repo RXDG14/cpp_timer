@@ -8,6 +8,9 @@ this was already implemeted before but what i did was replaced 8 lines of long l
 # usage :
 
 header file   :    #include<ghanta.h>
+
 start timer   :    start_time;
+
 ends timer    :    end_time;              
+
 show time     :    cout<<duration;
